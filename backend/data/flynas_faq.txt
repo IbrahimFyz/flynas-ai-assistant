@@ -1,0 +1,14 @@
+# Mock FlyNAS FAQ
+# This information is temporary test data for development purposes.
+
+Q: What is FlyNAS?
+A: FlyNAS is a Saudi low-cost airline that provides domestic and international flights.
+
+Q: Can I change my flight?
+A: Flight changes may be available depending on the booking conditions and fare rules.
+
+Q: Can I add baggage to my booking?
+A: Additional baggage may be added to a booking depending on the available baggage options and booking conditions.
+
+Q: Can I check in online?
+A: Online check-in may be available for eligible flights and passengers.
