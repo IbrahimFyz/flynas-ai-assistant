@@ -161,4 +161,3 @@ if __name__ == "__main__":
     seed_fares()
     seed_baggage_policies()
     seed_booking_policies()
-    
